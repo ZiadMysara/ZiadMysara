@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with .NET or anything related to backend.
+- 💬 Ask me about my experience with Flutter or anything related to mobile applications.
 - ⚡ Fun Fact: I have a unique talent for solving Rubik's cubes. I can solve the standard 3x3 cube in under two minutes.
 
 
