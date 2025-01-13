@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ziad-mysara/" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20Mysara-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ziadmysara/" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20Mysara-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/ZiadMysara" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20Mysara-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://t.me/ZiadMysara" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20Mysara-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
